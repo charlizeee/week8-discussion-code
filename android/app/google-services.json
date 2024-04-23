@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257429690717",
+    "project_id": "lab-sample-435d1",
+    "storage_bucket": "lab-sample-435d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257429690717:android:c176018b1867807c7f70b4",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wr-OzCzyLgJZFO9PZMSDAEu4xxSdVrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
